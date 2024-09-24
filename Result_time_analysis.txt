@@ -1,0 +1,109 @@
+Testing Divide and Conquer Approach:
+
+Test Case 1: Same Key and Message
+Encryption Time: 0.000029 seconds
+Decryption Time: 0.000012 seconds
+
+Test Case 2: Different Key and Message
+Encryption Time: 0.000152 seconds
+Decryption Time: 0.000144 seconds
+
+Test Case 3: Repetitive Patterns
+Encryption Time: 0.000069 seconds
+Decryption Time: 0.000073 seconds
+
+Test Case 4: Key Sensitivity
+Using Small Key: 1
+Encryption Time: 0.000216 seconds
+Decryption Time: 0.000152 seconds
+
+Using Large Key: 100
+Encryption Time: 0.000146 seconds
+Decryption Time: 0.000149 seconds
+
+Test Case 5: Performance Evaluation
+Message Length: 100 characters
+Encryption Time: 0.000070 seconds
+Decryption Time: 0.000032 seconds
+
+Message Length: 1000 characters
+Encryption Time: 0.000296 seconds
+Decryption Time: 0.000371 seconds
+
+Message Length: 10000 characters
+Encryption Time: 0.003132 seconds
+Decryption Time: 0.002664 seconds
+
+
+Test Case 6: Known Plaintext Attack Test
+Encryption Time: 0.000027 seconds
+Decryption Time: 0.000020 seconds
+
+Test Case 7: Security Evaluation
+Brute Force Attack with Key: 0
+Decryption Time: 0.000143 seconds
+
+Frequency Analysis Attack
+Decryption Time: 0.000139 seconds
+
+Chosen Plaintext Attack
+Decryption Time: 0.000141 seconds
+
+Testing Dynamic Search Algorithm:
+
+Test Case 1: Same Key and Message
+Encryption Time: 0.000018 seconds
+Decryption Time: 0.000007 seconds
+
+Test Case 2: Different Key and Message
+Encryption Time: 0.000112 seconds
+Decryption Time: 0.000104 seconds
+
+Test Case 3: Repetitive Patterns
+Encryption Time: 0.000047 seconds
+Decryption Time: 0.000046 seconds
+
+Test Case 4: Key Sensitivity
+Using Small Key: 1
+Encryption Time: 0.000100 seconds
+Decryption Time: 0.000100 seconds
+
+Using Large Key: 100
+Encryption Time: 0.000099 seconds
+Decryption Time: 0.000106 seconds
+
+Test Case 5: Performance Evaluation
+Message Length: 100 characters
+Encryption Time: 0.000020 seconds
+Decryption Time: 0.000021 seconds
+
+Message Length: 1000 characters
+Encryption Time: 0.000228 seconds
+Decryption Time: 0.000227 seconds
+
+Message Length: 10000 characters
+Encryption Time: 0.002344 seconds
+Decryption Time: 0.002352 seconds
+
+Test Case 6: Known Plaintext Attack Test
+Encryption Time: 0.000016 seconds
+Decryption Time: 0.000014 seconds
+
+Test Case 7: Security Evaluation
+
+Brute Force Attack with Key: 0
+Decryption Time: 0.000107 seconds
+
+Frequency Analysis Attack
+Decryption Time: 0.000101 seconds
+
+
+Chosen Plaintext Attack
+Decryption Time: 0.000103 seconds
+
+
+
+
+
+
+
